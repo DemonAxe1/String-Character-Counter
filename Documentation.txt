@@ -1,0 +1,28 @@
+String Character Counter
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Main idea:
+----------
+This program takes an input of string from the user and counts how many characters are represented and repeated
+this table is printed with 2 rows of 13 columns representing the alphabet respectively in order. After the table is printed the user is asked 
+if they want to try again if the user enters 1 then all the registers are zeroed out and the program starts again from the top,
+if any other register is entered then the program exits.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+User input:
+---------------
+The user is prompted with the title of the program and a short description then is asked to input a 100-character long
+string or shorter. Once the 100 characters are entered or the user presses enter then the program prompts and print 
+the table with all the time’s characters repeated. 
+After the table, the user is prompted to repeat the program or exit.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Checking the input and converting it:
+----------------------------
+Once the string input is entered the program manipulated the string removing anything that is not a capital or lowercase letter,
+turning all the capital letters into lower case. Once we have the new manipulated string with only characters we check each character and add one 
+to a position in an array that represents all 26 letters of the alphabet. Once we went through the whole new string we print the table that shows 
+how many times any character was found. 
+The user is prompted to enter the integer 1 to run the program again, if any other integer is pressed then the program prints
+a thank you message and exits
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
