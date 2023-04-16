@@ -1,5 +1,5 @@
 #####################################################################
-# Letter Frequency Table		Programmer: Tarek Fouad
+# Letter Frequency Table		Programmer: DemonAxe
 # Due Date: 3-24-23	
 # Last Modified: 03-24-2023
 #####################################################################
