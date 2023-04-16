@@ -19,11 +19,11 @@ if they want to try again.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the program, Prompts the user to enter a String of character (Max 100 characters long): <br/>
+Launch the program, Prompts the user to enter a String of characters (Max 100 characters long): <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/2MIPS%201.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The sring can contain anything letter, Symbol, numbers, or puncutation:  <br/>
+The string can contain anything letter, Symbol, numbers, or punctuation:  <br/>
 <img src="https://user-images.githubusercontent.com/130255739/232175219-f8b06008-6f3d-441c-b1d0-bb91acb29528.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
